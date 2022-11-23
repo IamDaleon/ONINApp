@@ -64,10 +64,12 @@ This is an internal App UI redesign
 
 The following tools were used in this project:
 
+- [VS CODE](https://code.visualstudio.com/)
 - [HTML](#)
 - [CSS3/Bootstrap](#)
 - [JavaScript](#)
 - [Python](#)
+
 
 ## :white_check_mark: Requirements ##
 
@@ -81,14 +83,16 @@ $ git clone https://github.com/IamDaleon/onixmedia-internal-app
 
 # Access
 $ cd onixmedia-internal-app
+$ code .
 
-# Install dependencies
-$ yarn
+# VS Code opens
+- CLTR + Shift + X 
+- Search 'Live Server'
 
 # Run the project
-$ yarn start
+- Click on Live Server on the bottom right section of VS Code to run the server 
 
-# The server will initialize in the <http://localhost:3000>
+# The server will initialize in the <http://localhost:5500>
 ```
 
 ## :memo: License ##
