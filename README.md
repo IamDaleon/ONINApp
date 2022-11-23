@@ -54,6 +54,12 @@ This is an internal App UI redesign
 :heavy_check_mark: Feature 2: Modern touch to the UI \
 :heavy_check_mark: Feature 3: Implement a toogle that turn the UI to light/ dark mode
 
+## Sketch 
+<img src="./assets/readme/sketch.jpg" height="400">
+
+## Final
+<img src="./assets/readme/final.png">
+
 ## :rocket: Technologies ##
 
 The following tools were used in this project:
