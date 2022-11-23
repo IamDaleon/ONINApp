@@ -1,0 +1,40 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.maincontainer{
+    text-align: center;
+    height: 100vh;
+    padding: 15vh 25vw 0;
+}
+
+@media only screen and (max-width: 762px){
+    .subheader img{
+        width: 95% !important;
+    }
+
+}
+
+.card{
+    text-align: center;
+    border: none;
+}
+
+.card-title{
+    font-weight: 800; 
+    text-transform: uppercase;
+    font-size: 75%;
+    white-space: nowrap;
+    color: initial;
+    text-decoration: none;
+}
+
+.card-title a{
+    color: inherit !important;
+}
+
+.subheader img{
+    margin: auto;
+    padding-bottom: 35px;
+}
